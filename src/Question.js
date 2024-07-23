@@ -31,4 +31,3 @@ const Question = ({ question, options, type, name, handleChange }) => {
   );
 };
 export default Question;
-
