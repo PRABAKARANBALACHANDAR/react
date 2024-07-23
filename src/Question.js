@@ -30,5 +30,5 @@ const Question = ({ question, options, type, name, handleChange }) => {
     </div>
   );
 };
-
 export default Question;
+
